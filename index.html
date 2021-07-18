@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>抽選システム</title>
+  </head>
+  <body>
+    <h1>抽選システム</h1>
+    <p>CSVファイルを読み込んでください。</p>
+    <input type="file" id="inputFile" accept=".csv">
+    <br>
+    <br>
+    <p>当たった人を保存したファイル(winnertxt形式のファイル)を読み込んでください。(一回目の抽選の時は読み込まなくていいです。)</p>
+    <input type="file" id="inputFile_won" accept=".winnertxt">
+    <br>
+    <br>
+    <p>ファイルを読み込んだら押してください。</p>
+    <input type="button" value="抽選する" onclick="button_lot()"/>
+    <script src="index.js"></script>
+    <p id="p">処理にかかった時間を表示します。</p>
+  </body>
+</html>
