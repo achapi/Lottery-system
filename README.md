@@ -1,7 +1,7 @@
 # Lottery-system
 https://script.google.com/macros/s/AKfycbxmkT2RIiJuZv4g0mdluXdKJLCRB1MrSav7aL1CXjMp12EblG60C-toN13450DOfFH9/exec で使えます。
 
-ソースコードはhttps://script.google.com/d/1SeUaT_pyYQ8xKUSZNoAUqlsACoF4Kgi7UKO0afpy5JsEgoVKkCHVRPOQ/edit?usp=sharing で見れます。
+ソースコードはhttps://script.google.com/d/1SeUaT_pyYQ8xKUSZNoAUqlsACoF4Kgi7UKO0afpy5JsEgoVKkCHVRPOQ/edit?usp=sharing で見れます。Googleアカウントでログインしないと見れないので、見れない人はここに上がってるindex.htmlとindex.jsをダウンロードしてください。あまり変わらないのでそっちを見てください。
 
 webページが開けなかったらindex.htmlとindex.jsをダウンロードしてindex.htmlを起動してください。
 
