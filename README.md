@@ -6,3 +6,5 @@ https://script.google.com/macros/s/AKfycbxmkT2RIiJuZv4g0mdluXdKJLCRB1MrSav7aL1CX
 使えなかったらindex.htmlをindex.jsをダウンロードしてindex.htmlを起動してください。
 
 CSVファイルはhttps://turbowarp.org/553102657 で作れます。使い方は旗を押してリストを右クリックして書き出しを押すとダウンロードされます。
+
+処理速度を測定するやつを自分で作ったんですけどボタンを押してからダウンロードするまでなので正確じゃないかもしれないです。
